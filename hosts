@@ -1,0 +1,9 @@
+gateway ansible_ssh_host=npcdpaa-gateway0.nonprod.c2is-uy02.cloudera.site
+
+[data]
+npcdpaa-worker0.nonprod.c2is-uy02.cloudera.site
+npcdpaa-worker1.nonprod.c2is-uy02.cloudera.site
+npcdpaa-worker2.nonprod.c2is-uy02.cloudera.site
+
+[compute]
+npcdpaa-compute0.nonprod.c2is-uy02.cloudera.site
